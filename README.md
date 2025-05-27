@@ -1,3 +1,7 @@
+![my bookings](https://github.com/user-attachments/assets/962d70d0-c09a-439b-8af1-06b0cb87d5a3)
+![Capture](https://github.com/user-attachments/assets/842358aa-f8d8-4dc6-907b-dd617bf1e842)
+![book now](https://github.com/user-attachments/assets/8a9a5247-496a-4025-863c-c5da002643fc)
+![image](https://github.com/user-attachments/assets/f35f1252-48ad-4d6b-bf21-6f7775741e2c)
 # Storage Booking Web App
 
 This project contains both the backend (Node.js + Express) and frontend (Next.js) for a storage booking system, as well as Docker support for easy local setup.
